@@ -1,0 +1,17 @@
+{
+	"name": "fcp-database-management",
+	"course": "Database Management",
+	"title": "FCP - Student Portal Final DB",
+	"order": 2,
+	"topics": [
+		"database",
+		"sql",
+		"postgres"
+	],
+	"image": "golang-database",
+	"command": "go test",
+	"totalTestCase": 20,
+	"metadata": {
+		"type": "final-project"
+	}
+}

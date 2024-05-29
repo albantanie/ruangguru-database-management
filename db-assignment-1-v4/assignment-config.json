@@ -1,0 +1,17 @@
+{
+	"name": "db-assignment-1",
+	"course": "Database Management",
+	"title": "Assignment Database - Student Portal with DB",
+	"order": 1,
+	"topics": [
+		"database",
+		"sql",
+		"postgresql"
+	],
+	"image": "golang-database",
+	"command": "go test",
+	"totalTestCase": 16,
+	"metadata": {
+		"type": "assignment"
+	}
+}
